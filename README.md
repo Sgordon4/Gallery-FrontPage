@@ -22,9 +22,13 @@ More than storage — capture, tag, and organize your files in a media hub built
 ## Screenshots
 
 ![Your own personal media hub!](https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/1_MainGallery.png)
+Your own personal media hub!  
 
 ![Lock down or hide private photos!](https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/2_SortandOrganize.png)
+Lock down or hide private photos!  
 
 ![Reorder and separate as you see fit!](https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/3_Password.png)
+Reorder and separate as you see fit!  
 
 ![Tag, nest, and link for ultimate organization!](https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/4_TaggingandNesting.png)
+Tag, nest, and link for ultimate organization!  
