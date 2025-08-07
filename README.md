@@ -25,21 +25,21 @@ More than storage — capture, tag, and organize your files in a media hub built
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/1_MainGallery.png" width="200"/><br/>
+        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/1_MainGallery.png" width="300"/><br/>
         <sub>Your own personal media hub!</sub>
       </td>
       <td align="center">
-        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/2_SortandOrganize.png" width="200"/><br/>
+        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/2_SortandOrganize.png" width="300"/><br/>
         <sub>Lock down or hide private photos! </sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/3_Password.png" width="200"/><br/>
+        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/3_Password.png" width="300"/><br/>
         <sub>Reorder and separate as you see fit!</sub>
       </td>
       <td align="center">
-        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/4_TaggingandNesting.png" width="200"/><br/>
+        <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/4_TaggingandNesting.png" width="300"/><br/>
         <sub>Tag, nest, and link for ultimate organization!</sub>
       </td>
     </tr>
