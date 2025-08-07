@@ -30,13 +30,13 @@ More than storage — capture, tag, and organize your files in a media hub built
       </td>
       <td align="center">
         <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/2_SortandOrganize.png" width="300"/><br/>
-        <sub>Lock down or hide private photos! </sub>
+        <sub>Reorder and separate as you see fit!</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/3_Password.png" width="300"/><br/>
-        <sub>Reorder and separate as you see fit!</sub>
+        <sub>Lock down or hide private photos! </sub>
       </td>
       <td align="center">
         <img src="https://github.com/Sgordon4/Gallery-FrontPage/blob/master/screenshots/4_TaggingandNesting.png" width="300"/><br/>
